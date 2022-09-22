@@ -1,7 +1,7 @@
 #include <iostream>
 #include "src/function.hpp"
 #include "src/random.hpp"
-#include "timer/timer.hpp"
+#include "../timer/timer.hpp"
 
 int main(){
     std::string input = strRand(1000000);
